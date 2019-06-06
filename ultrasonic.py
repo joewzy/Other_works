@@ -1,3 +1,7 @@
+#By Josiah
+# On raspberry pi 3
+# ultrasonic sensor
+
 import RPi.GPIO as gpio
 import time
 

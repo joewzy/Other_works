@@ -1,3 +1,6 @@
+# By Josiah
+#On raspberry pi 3
+
 import RPi.GPIO as gpio
 import time
 
